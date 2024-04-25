@@ -5,7 +5,7 @@
 </div>
 
  ### 💕 Olá, sou Adrielly, mas pode me chamar de Driih! (❁´◡`❁)
-💻 Sou Adrielly Julião, entusiasta de programação e desenvolvedora frontend em constante evolução. Atualmente cursando Análise e Desenvolvimento de Sistemas na Puc Minas, estou mergulhando de cabeça no mundo da tecnologia.
+💻 Sou Adrielly Julião, estudante de programação e desenvolvedora frontend em constante evolução. Atualmente cursando Análise e Desenvolvimento de Sistemas na Puc Minas, estou mergulhando de cabeça no mundo da tecnologia.
 
 ### 💬 Vamos nos conectar !
 <a href="https://instagram.com/driihjuliao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
