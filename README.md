@@ -5,7 +5,7 @@
 </div>
 
  ### 💕 Olá, sou Adrielly, mas pode me chamar de Driih! (❁´◡`❁)
-💻 Sou Adrielly Julião, estudante de programação e desenvolvedora frontend em constante evolução. Atualmente cursando Análise e Desenvolvimento de Sistemas na Puc Minas, estou mergulhando de cabeça no mundo da tecnologia.
+💻 Sou Adrielly Julião, estudante de programação e estagiária de quality assurance em constante evolução. Atualmente cursando Análise e Desenvolvimento de Sistemas na Puc Minas, estou mergulhando de cabeça no mundo da tecnologia.
 
 ### 💬 Vamos nos conectar !
 <a href="https://instagram.com/driihjuliao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
 </div><br/>
 
